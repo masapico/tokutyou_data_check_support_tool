@@ -27,8 +27,8 @@
 
 ## 制限事項
 
-- 利用システムによって、適切に文字コードが設定されていない可能性があるため、JIS(iso2022_jp)として扱えない文字はリプレイスしています
-- インターネット上で確認できる情報交換媒体作成[仕様書(前半部分)](https://www.mhlw.go.jp/bunya/shakaihosho/iryouseido01/pdf/05-1e-01.pdf)・[仕様書(後半部分)](https://www.mhlw.go.jp/bunya/shakaihosho/iryouseido01/pdf/05-1e-02.pdf)の情報がどうも古いようで特別徴収義務者コードは名称変換していません
+- 利用システムによって、適切に文字コードが設定されていない可能性があるため、JIS(iso2022_jp)として扱えない文字はU+FFFDにリプレイスされ確認ファイルに出力
+- インターネット上で確認できる情報交換媒体作成[仕様書(前半部分)](https://www.mhlw.go.jp/bunya/shakaihosho/iryouseido01/pdf/05-1e-01.pdf)・[仕様書(後半部分)](https://www.mhlw.go.jp/bunya/shakaihosho/iryouseido01/pdf/05-1e-02.pdf)の情報がどうも古いようで特別徴収義務者コードの名称変換は行わない
 
 ## 確認用データの説明
 
