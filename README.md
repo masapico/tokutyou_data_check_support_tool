@@ -28,7 +28,7 @@
 ## 制限事項
 
 - 利用システムによって、適切に文字コードが設定されていない可能性があるため、JIS(iso2022_jp)として扱えない文字はリプレイスしています
-- [インターネットを通じ取得できる仕様書](https://www.mhlw.go.jp/bunya/shakaihosho/iryouseido01/pdf/05-1e-01.pdf)の情報がどうも古いようで特別徴収義務者コードは名称変換していません
+- [インターネットを通じ取得できる仕様書(前半部分)](https://www.mhlw.go.jp/bunya/shakaihosho/iryouseido01/pdf/05-1e-01.pdf)・[仕様書(後半部分)](https://www.mhlw.go.jp/bunya/shakaihosho/iryouseido01/pdf/05-1e-02.pdf)の情報がどうも古いようで特別徴収義務者コードは名称変換していません
 
 ## 確認用データの説明
 
