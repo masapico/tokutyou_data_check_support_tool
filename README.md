@@ -4,6 +4,8 @@
 
 ## 利用方法
 
+実行ファイルのダウンロードは[Releases](https://github.com/masapico/tokutyou_data_check_support_tool/releases)から
+
 1. パソコンでフォルダを作成します（サーバではなく、パソコン上に作成）
 2. 送信しようとするデータを作成したフォルダに格納する（拡張子がdta）
   - 介護分 Z1Xnnnnn.dta
